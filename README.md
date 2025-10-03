@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thabsheer</h1>
 <h3 align="center">An upcoming developer from India</h3>
 
-- 🌱 I’m currently learning **Elixir**
-
 <p align="left">
 </p>
 
